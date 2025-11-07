@@ -20,7 +20,7 @@ The XONE external optimization tools analyze game processes and system resources
 Advanced external features in XONE include customizable overlays, performance benchmarking, and system monitoring capabilities that operate independently from the game client. The XONE toolkit provides external configuration management, allowing players to maintain optimal settings across different gaming sessions and system configurations. This XONE CS2 external solution is designed for competitive players who require professional-grade tools that enhance performance without compromising system security or game compliance.
 
 <div align="center">
-  <img src="https://cheatseller.com/uploads/202310/php8vfiiw_split_6.png" alt="XONE CS2 Interface"/>
+  <img src="https://static.tildacdn.com/tild3330-3236-4339-b564-303331386366/7.png" alt="XONE CS2 Interface"/>
 </div>
 
 ---
